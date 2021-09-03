@@ -8,3 +8,5 @@ It will resize the image to fit the reMarkable screen. It will ask for reMarkabl
 chmod 755 changeRmScreen.sh
 ./changeRmScreen.sh <input_image>
 ```
+
+You can find some (cool) suspend screen in the images folder. Unfortunately, I don't remember where I took them (had them on my computer for a while) hence I can't give proper credit to the authors.
