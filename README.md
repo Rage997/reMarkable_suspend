@@ -9,4 +9,9 @@ chmod 755 changeRmScreen.sh
 ./changeRmScreen.sh <input_image>
 ```
 
-You can find some (cool) suspend screen in the images folder. Unfortunately, I don't remember where I took them (had them on my computer for a while) hence I can't give proper credit to the authors.
+You can find some (cool) suspend screen in the images folder. 
+
+## Images Credits
+
+1. [Galaxy](https://github.com/Rage997/reMarkable_suspend/blob/master/images/galaxy.png) is taken from https://doonvorcannon.com/2021/03/26/mystical-ennui/
+2. [Slave1](https://github.com/Rage997/reMarkable_suspend/blob/master/images/slave_1.png) goes to Reddit user u/Urdicrates
